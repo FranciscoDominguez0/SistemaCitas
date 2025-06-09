@@ -10,10 +10,10 @@ public class conectar {
     private static final String URL = "jdbc:mysql://127.0.0.1:3306/sistemamunicipal";
     private static final String USER = "root";
     private static final String PASSWORD = "";
-
+ 
     public static Connection getConnection() {
         throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
-    }
+}
 
     public Connection conexion() {
         Connection conect = null;

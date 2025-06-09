@@ -1,0 +1,41 @@
+# === IntelliJ IDEA - Solo archivos innecesarios ===
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/usage.statistics.xml
+.idea/dictionaries/
+.idea/shelf/
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/jarRepositories.xml
+.idea/compiler.xml
+.idea/modules.xml
+.idea/misc.xml
+.idea/vcs.xml
+.idea/caches/
+.idea/navEditor.xml
+
+# Carpetas de compilación
+out/
+build/
+target/
+
+# Archivos compilados
+*.class
+*.jar
+*.war
+*.ear
+
+# Archivos temporales
+*.tmp
+*.temp
+*.log
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
